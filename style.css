@@ -28,3 +28,25 @@
 .underline {
   text-decoration: underline;
 }
+
+.button {
+  display: block;
+  width: min-content;
+  margin: 12px auto;
+  padding: 6px 12px;
+  border: 2px solid blue;
+}
+
+.titleformat {
+  display: block;
+  border: 3px dotted purple;
+}
+
+.border {
+  border-radius: 15px;
+}
+
+.inside {
+  color: blueviolet;
+  background-color: white;
+}
